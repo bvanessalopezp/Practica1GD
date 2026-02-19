@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sistema de Lotka-Volterra
+message: >-
+  Gemelos digitales / Ingeniería Biomédica / Instituto
+  Nacional de México
+type: software
+authors:
+  - email: l22212261@tectijuana.edu.mx
+    family-names: Lopez Pardo
+    affiliation: Tecnológico Nacional de México
+    given-names: Brianna Vanessa
+repository-code: 'https://github.com/bvanessalopezp/Practica1GD'
+keywords:
+  - Bioestadistísticos
+  - Modelo matemático
+  - Regresión no lineal
+  - Simulaciones numéricas
+  - Sistemas dinámicos no lineales
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-18'
