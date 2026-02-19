@@ -3,7 +3,7 @@
 # Práctica 1: Sistema de Lotka-Volterra
 
 ## Información de la estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Brianna Vanessa Lopez Pardo \[22212261]; l22212261@tijuana.tecnm.mx
 
 Gemelos Digitales
 
